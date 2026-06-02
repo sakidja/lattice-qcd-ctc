@@ -1,7 +1,7 @@
 # The Missing T⁰ⁱ Momentum Flux in Lattice QCD — Simulation Code
 
 This repository contains the simulation, validation, and figure-generation code
-for the paper *The Missing T⁰ⁱ Momentum Flux in Lattice QCD*. All scripts operate
+for the paper *The Missing T⁰ⁱ Momentum Flux in Lattice QCD: Chromomagnetic Vacuum Structure, Mass Gap, and Gravitational Analogue*. All scripts operate
 on standard Wilson-action SU(3) gauge configurations; the Curvature–Transport
 Correspondence (CTC) observables are read from the same link variables Uμ(x) the
 Wilson Monte Carlo produces, without modifying the sampling measure.
